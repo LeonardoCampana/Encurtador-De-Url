@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EncurtadorAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c521e9762c6517d947c07e7a47d65498ed4d599")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf22f98554f20471cef28761e76dd7f91369db1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EncurtadorAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EncurtadorAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
