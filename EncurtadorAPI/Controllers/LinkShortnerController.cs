@@ -13,7 +13,7 @@ namespace EncurtadorAPI.Controllers
     [Route("[controller]")]
     public class LinkShortnerController : Controller
     {
-        //substitua pelo seu token!
+        //substitua pelo seu token de link da bitly!
         private static readonly string BitlyToken = "!";
 
         [HttpGet("Link-Shortner")]

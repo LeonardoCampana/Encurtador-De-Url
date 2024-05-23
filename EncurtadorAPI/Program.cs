@@ -1,12 +1,12 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Adicione os serviços ao contêiner.
+// Adicione os serviï¿½os ao contï¿½iner.
 builder.Services.AddControllers();
 // Aprenda mais sobre como configurar o Swagger/OpenAPI em https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Configuração do CORS
+// Configuraï¿½ï¿½o do CORS
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAnyOrigin",
@@ -20,7 +20,7 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// Configurar o pipeline de solicitação HTTP.
+// Configurar o pipeline de solicitaï¿½ï¿½o HTTP.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
