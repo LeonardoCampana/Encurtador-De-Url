@@ -5,7 +5,7 @@ document.getElementById("encurtar").addEventListener('click', () =>
         
         const numLocal = 5081
 
-        //substitua o numLocal para funcionar baseado no numero de localhost(você pode verificar ao inicializar a api)
+        //substitua o numLocal para funcionar baseado no seu numero de localhost(você pode verificar ao inicializar a api)
         const ApiUrl = `http://localhost:${numLocal}/LinkShortner/Link-Shortner?urlOriginal=${encodeURIComponent(longUrl)}`;
 
         fetch(ApiUrl, {
