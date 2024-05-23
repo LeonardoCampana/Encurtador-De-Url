@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sXMAjLMHzyCsdeFq+67R+DJydcgqQYbDXQE7T0zPHdCIMu4C7ZgVzIWKpnUaCdaody+SnMm8++joyGnIJCnuog==",
+  "dgSpecHash": "CRbER24WPnG9/FhoUnUUMBiy2WOZsOcTDAVc4H6MFnQm6sYqz3k9I8GEW4XUU/n8oB0goXhNKCmtBiqunm8I3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\Encurtador-De-Url\\EncurtadorAPI\\EncurtadorAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leonardo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Leonardo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Leonardo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Leonardo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Leonardo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Leonardo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
