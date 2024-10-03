@@ -31,4 +31,4 @@ C:\Users\Leonardo\OneDrive\Área de Trabalho\Encurtador-De-Url\EncurtadorAPI\obj
 C:\Users\Leonardo\OneDrive\Área de Trabalho\Encurtador-De-Url\EncurtadorAPI\obj\Debug\net8.0\EncurtadorAPI.genruntimeconfig.cache
 C:\Users\Leonardo\OneDrive\Área de Trabalho\Encurtador-De-Url\EncurtadorAPI\obj\Debug\net8.0\ref\EncurtadorAPI.dll
 C:\Users\Leonardo\OneDrive\Área de Trabalho\Encurtador-De-Url\EncurtadorAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\Leonardo\OneDrive\Área de Trabalho\Encurtador-De-Url\EncurtadorAPI\obj\Debug\net8.0\EncurtadorAPI.csproj.CopyComplete
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Encurtador-De-Url\EncurtadorAPI\obj\Debug\net8.0\Encurtad.C385A0FD.Up2Date

@@ -21,7 +21,6 @@ namespace EncurtadorAPI.Controllers
         {
 
             HttpClient client = new HttpClient();
-            string data = string.Format("https://api-ssl.bitly.com/v4/shorten", BitlyToken, urlOriginal);
 
             client.DefaultRequestHeaders.Add("Authorization", $"Bearer {BitlyToken}");
 
